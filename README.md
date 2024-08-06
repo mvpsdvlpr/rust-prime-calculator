@@ -34,9 +34,9 @@ Introduce uno o más números separados por espacios: 7 10 23 45
 Si deseas contribuir a este proyecto, sigue estos pasos:
 
 - Haz un fork del repositorio.
-- Crea una rama para tu característica (git checkout -b feature/nueva-caracteristica).
-- Realiza tus cambios y haz commit (git commit -am 'Añadir nueva característica').
-- Envía tus cambios a tu repositorio fork (git push origin feature/nueva-caracteristica).
+- Crea una rama para tu característica `(git checkout -b feature/nueva-caracteristica)`.
+- Realiza tus cambios y haz commit `(git commit -am 'Añadir nueva característica')`.
+- Envía tus cambios a tu repositorio fork `(git push origin feature/nueva-caracteristica)`.
 - Abre un Pull Request en GitHub.
 
 ## Licencia
