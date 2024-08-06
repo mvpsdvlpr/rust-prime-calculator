@@ -1,0 +1,32 @@
+# Archivos generados por Cargo
+/target/
+Cargo.lock
+
+# Archivos temporales y de caché
+*.rs.bk
+*.swp
+*.swo
+
+# Archivos de configuración de IDEs
+.idea/
+.vscode/
+*.iml
+
+# Archivos de compilación de Rust
+*.rs.bk
+*.rs.bk~
+
+# Archivos de pruebas y de cobertura
+*.gcda
+*.gcno
+*.gcov
+
+# Archivos de entornos de trabajo
+.env
+
+# Archivos de configuración de Git
+.git/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
